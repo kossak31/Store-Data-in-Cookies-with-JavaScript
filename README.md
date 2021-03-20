@@ -47,4 +47,4 @@ Store Data in Cookies with JavaScript
         }
 
     </script>
-    ```
+```
